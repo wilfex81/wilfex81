@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilfex81
 - 👀 I’m interested in python backend
-- 🌱 I’m currently learning and improving my python skils
+- 🌱 I’m currently learning and improving my python skills
 - 💞️ I’m looking to collaborate on anything that has to do with python
 - 📫 How to reach me email:Wilfex81@gmail.com
 
