@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Several Projects to help imrpove my skills**
+- 🔭 I’m currently working on **Several Projects to help Improve my skills**
 
 - 🌱 I’m currently improving my skills on: **Django, and Python.**
 
@@ -21,9 +21,9 @@
 
 - ⚡ Fun fact **I think I'm funny**
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/wilfex81@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wilfex81@gmail.com" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/wilfex81@gmail.com"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wilfex81@gmail.com" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfex81&show_icons=true&locale=en&layout=compact" alt="wilfex81" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfex81&show_icons=true&locale=en&layout=compact" alt="wilfex81" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilfex81&show_icons=true&locale=en" alt="wilfex81" /></p>
 
