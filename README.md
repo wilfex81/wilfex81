@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **wilfex81@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I never get tired watching The Big Bang Theory**
 
 
 <h3 align="left">Support:</h3>
