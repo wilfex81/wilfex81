@@ -6,8 +6,7 @@ Whether it's building interactive dashboards, cleaning messy data, or uncovering
 the numbers.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://wilfex81.github.io/data_analysis_portfolio/))
-
+### [🏆 Check Out My Full Portfolio Website]([https://wilfex81.github.io/data_analysis_portfolio/])
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
