@@ -1,35 +1,37 @@
 ## Hi there, I'm Wilfex 👋
 
-## 🚀 About Me 
-I take raw, chaotic datasets and turn them into clear insights that drive real decisions. 
-Whether it's building interactive dashboards, cleaning messy data, or uncovering hidden patterns through exploratory analysis. I enjoy the process of finding the story within 
-the numbers.
+## 🚀 About Me
+Data engineer with a software engineering foundation. I build pipelines, model data,
+and orchestrate systems that turn raw data into reliable business insights.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://wilfex81.github.io/data_analysis_portfolio/)
+### [🏆 Check Out My Full Portfolio Website](https://wilfex81.github.io/wilfex-data-engineer-portfolio/)
+
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### Data Engineering
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-Intermediate-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/dbt-Intermediate-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Data%20Modeling-Intermediate-6C5CE7?style=flat" alt="Data Modeling">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-#### Business Intelligence & Analytics
+#### Data Visualization & BI
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Metabase-Intermediate-509EE3?style=flat&logo=metabase&logoColor=white" alt="Metabase">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
 </p>
 
+#### Software Engineering
+<p>
+  <img src="https://img.shields.io/badge/Django-Intermediate-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Git-Experienced-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/REST%20APIs-Experienced-009688?style=flat" alt="REST APIs">
+</p>
