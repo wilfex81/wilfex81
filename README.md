@@ -1,6 +1,6 @@
 # Hi, I'm Wilfex 👋
 
-### Software Engineer | Data Engineer
+### Data Engineer | Software Engineer
 
 I build backend systems and data pipelines - from APIs and distributed services to ETL/ELT workflows and analytics platforms.
 
