@@ -8,7 +8,7 @@ Currently a **Data Engineering** -  https://wilfex81.github.io/wilfex-data-engin
 
 **Software Engineer** at [_SongaBiz_](https://www.songabiz.app/) doing Code stuff in Python.
 
-**Software Engineer** at [_DowellResearch_](https://dowellresearch.uk/) working with Python, Django, and Flask.
+**Software Engineer** at [_DowellResearch_](https://dowellresearch.uk/) working with Python, Django, React, and Flask.
 
 ## My Projects
 
