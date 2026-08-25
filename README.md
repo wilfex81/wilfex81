@@ -1,41 +1,17 @@
-# Hi, I'm Wilfex 👋
+# Wilfex Kipchirchir - @wilfex
 
-### Data Engineer | Software Engineer
+Currently a **Data Engineering** -  https://wilfex81.github.io/wilfex-data-engineer-portfolio/
 
-I build backend systems and data pipelines - from APIs and distributed services to ETL/ELT workflows and analytics platforms.
+[![linkedin](https://img.shields.io/badge/-@wilfex-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/wilfex/)  
 
-Currently building production backend and data systems.
+## My Experience
 
----
+**Software Engineer** at [_SongaBiz_](https://www.songabiz.app/) doing Code stuff in Python.
 
-## 🌐 Portfolio
+**Software Engineer** at [_DowellResearch_](https://dowellresearch.uk/) working with Python, Django, and Flask.
 
-📊 **Data Engineering** -  https://wilfex81.github.io/wilfex-data-engineer-portfolio/
+## My Projects
 
-💻 **Software Engineering** - https://wilfex-software-engineer-portfolio.vercel.app/
+[Cloud-Native-Data-Lakehouse](https://github.com/wilfex81/data-warehouse-project) - Cloud-native medallion lakehouse rebuild of a SQL Server data warehouse project. AWS S3 + Databricks (Auto Loader, Delta Lake, Unity Catalog) + dbt + Airflow + Terraform, with dev/staging/prod environment promotion via Databricks Asset Bundles.
 
-Project details, architecture, and write-ups live there - have a look.
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: [linkedin.com/in/wilfex](https://linkedin.com/in/wilfex)
-- 📫 Email *(wilfex81@gmail.com)*
+[APEXsYNC](https://github.com/wilfex81/APEXsYNC) - A dual data/software engineering portfolio project: a financial management system for Mexican SMEs. Features a medallion-architecture pipeline (Airflow + dbt) and a Django REST API with predictive analytics, data normalization, and a hot-swappable tax compliance engine.
