@@ -1,17 +1,23 @@
-# Wilfex Kipchirchir - @wilfex
+# Wilfex Kipchirchir
 
-Currently a **Data Engineering** -  https://wilfex81.github.io/wilfex-data-engineer-portfolio/
+Backend Engineer building APIs and cloud infrastructure with Python, Django, PostgreSQL, and AWS. Currently building deeper backend skills in Go.
 
-[![linkedin](https://img.shields.io/badge/-@wilfex-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/wilfex/)  
+[Portfolio](https://wilfex-software-engineer-portfolio.vercel.app) | [LinkedIn](https://www.linkedin.com/in/wilfex/)
 
-## My Experience
+## Stack
 
-**Software Engineer** at [_SongaBiz_](https://www.songabiz.app/) doing Code stuff in Python.
+Python, Django, Django REST Framework, PostgreSQL, AWS, Terraform, CI/CD, Go
 
-**Software Engineer** at [_DowellResearch_](https://dowellresearch.uk/) working with Python, Django, React, and Flask.
+## Experience
 
-## My Projects
+**Software Engineer, Team Lead** at [SongaBiz](https://www.songabiz.app/) - Django REST Framework backend, PostgreSQL, payments integration, and AWS infrastructure with Terraform.
 
-[Cloud-Native-Data-Lakehouse](https://github.com/wilfex81/data-warehouse-project) - Cloud-native medallion lakehouse rebuild of a SQL Server data warehouse project. AWS S3 + Databricks (Auto Loader, Delta Lake, Unity Catalog) + dbt + Airflow + Terraform, with dev/staging/prod environment promotion via Databricks Asset Bundles.
+**Software Developer, Team Lead** at [Dowell Research](https://dowellresearch.uk/) - Python and Django backend development, code reviews, and remote team coordination.
 
-[APEXsYNC](https://github.com/wilfex81/APEXsYNC) - A dual data/software engineering portfolio project: a financial management system for Mexican SMEs. Features a medallion-architecture pipeline (Airflow + dbt) and a Django REST API with predictive analytics, data normalization, and a hot-swappable tax compliance engine.
+## Projects
+
+[mini-redis-go](https://github.com/wilfex81/mini-redis) - Redis-compatible server in Go: TCP server, RESP parser, and core commands (PING, ECHO, SET, GET, DEL).
+
+[APEXsYNC](https://github.com/wilfex81/APEXsYNC) - Financial management system for Mexican SMEs. Django REST API with predictive analytics, data normalization, and a hot-swappable tax compliance engine, backed by an Airflow and dbt pipeline.
+
+[Cloud-Native-Data-Lakehouse](https://github.com/wilfex81/data-warehouse-project) - Medallion lakehouse on AWS S3 and Databricks with dbt, Airflow, and Terraform, promoted across dev, staging, and prod with Databricks Asset Bundles.
